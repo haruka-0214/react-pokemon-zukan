@@ -1,6 +1,6 @@
 // src/components/pokemonTypeLabel.tsx
 // ポケモンのタイプのラベル
-import { pokemonTypesMap } from '../_pokemonTypesMap';
+import { pokemonTypesMap } from '../pokemonTypesMap';
 
 type PokemonTypeLabelProps = {
   type: string;
